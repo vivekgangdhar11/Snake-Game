@@ -138,7 +138,7 @@ while True:
              sb.clear()
              sb.write("Score:{} || Highest Score:{}".format(sc,hs))
     time.sleep(delay)
-
+# this project is created by Keatn
 s.mainloop()         
          
             
